@@ -1,0 +1,24 @@
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\bin\Debug\net6.0\EmployeeManagementSystem.Entities.deps.json
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\bin\Debug\net6.0\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\bin\Debug\net6.0\ref\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\bin\Debug\net6.0\EmployeeManagementSystem.Entities.pdb
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.AssemblyInfo.cs
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\ref\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.pdb
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\bin\Debug\net6.0\EmployeeManagementSystem.Entities.deps.json
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\bin\Debug\net6.0\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\bin\Debug\net6.0\ref\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\bin\Debug\net6.0\EmployeeManagementSystem.Entities.pdb
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.AssemblyInfo.cs
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\ref\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystme.Entities\obj\Debug\net6.0\EmployeeManagementSystem.Entities.pdb

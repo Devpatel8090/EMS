@@ -1,0 +1,30 @@
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Repository.deps.json
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\bin\Debug\net6.0\ref\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Repository.pdb
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Entities.pdb
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.AssemblyInfo.cs
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.csproj.CopyComplete
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\ref\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagementSystem\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.pdb
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.AssemblyInfo.cs
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\ref\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.pdb
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Repository.deps.json
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\bin\Debug\net6.0\ref\EmployeeManagementSystem.Repository.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Repository.pdb
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Entities.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\bin\Debug\net6.0\EmployeeManagementSystem.Entities.pdb
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem.Repository\obj\Debug\net6.0\EmployeeManagementSystem.Repository.csproj.CopyComplete

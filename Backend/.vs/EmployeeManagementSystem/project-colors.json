@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9febcbdd-f174-47bb-b4eb-97b9a674413a": {
+      "ProjectGuid": "9febcbdd-f174-47bb-b4eb-97b9a674413a",
+      "DisplayName": "EmployeeManagementSystem",
+      "ColorIndex": 0
+    },
+    "0f7ad133-8284-445b-a1ce-9930fdd1e111": {
+      "ProjectGuid": "0f7ad133-8284-445b-a1ce-9930fdd1e111",
+      "DisplayName": "EmployeeManagementSystem.Entities",
+      "ColorIndex": 1
+    },
+    "fd10bc57-e4c0-4cd7-9a13-ee9e9e12c4c2": {
+      "ProjectGuid": "fd10bc57-e4c0-4cd7-9a13-ee9e9e12c4c2",
+      "DisplayName": "EmployeeManagementSystem.Repository",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
