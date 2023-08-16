@@ -69,6 +69,14 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[11.8.2, )"
+            },
+            "Spire.XLS": {
+              "target": "Package",
+              "version": "[13.8.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[6.32.1, )"

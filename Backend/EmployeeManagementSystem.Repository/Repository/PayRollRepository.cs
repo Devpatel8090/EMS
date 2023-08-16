@@ -84,9 +84,6 @@ namespace EmployeeManagementSystem.Repository.Repository
                 Console.WriteLine("Error => ", ex.Message);
                 return 0;
             }
-
         }
-
-
     }
 }

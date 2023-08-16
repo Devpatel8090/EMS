@@ -20,6 +20,7 @@ namespace EmployeeManagementSystem.Repository.Repository
             Credential = new CredentialRepository(_dataAccess);
             LeaveRequest = new LeaveRequestRepository(_dataAccess);
             PayRoll = new PayRollRepository(_dataAccess);
+            ExcelTask = new ExcelTaskRepository(_dataAccess);
         }
         /*public IDataAccessRepository DataAccess { get; private set; }*/
         public IEmployeeRepository Employee { get; private set; }
@@ -27,6 +28,7 @@ namespace EmployeeManagementSystem.Repository.Repository
         public ICredentialRepository Credential { get; private set; }
         public ILeaveRequestRepository LeaveRequest { get; private set; }
         public IPayRollRepository PayRoll { get; private set; }
+        public IExcelTaskRepository ExcelTask { get; private set; }
 
     }
 }

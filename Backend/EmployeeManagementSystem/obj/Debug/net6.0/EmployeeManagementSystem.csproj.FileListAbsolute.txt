@@ -229,3 +229,8 @@ C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSyst
 C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\obj\Debug\net6.0\ref\EmployeeManagementSystem.dll
 C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.pdb
 C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\bin\Debug\net6.0\Spire.Doc.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\bin\Debug\net6.0\Spire.Pdf.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\bin\Debug\net6.0\Spire.XLS.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\pca39\Desktop\EmployeeManagement Backend\Backend\EmployeeManagementSystem\bin\Debug\net6.0\System.IO.Packaging.dll

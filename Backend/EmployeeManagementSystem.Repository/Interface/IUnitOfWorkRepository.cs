@@ -13,5 +13,6 @@ namespace EmployeeManagementSystem.Repository.Interface
         public ICredentialRepository Credential { get; }
         public ILeaveRequestRepository LeaveRequest { get; }
         public IPayRollRepository PayRoll { get; }
+        public IExcelTaskRepository ExcelTask { get; }
     }
 }
