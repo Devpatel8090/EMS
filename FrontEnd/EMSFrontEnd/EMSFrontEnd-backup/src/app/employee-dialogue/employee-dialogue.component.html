@@ -1,0 +1,47 @@
+<p>employee-dialogue works!</p>
+<form [formGroup]="updateForm"  method="post" (submit)="UpdateEmployeeDetails()"   class="example-form mt-2 d-flex align-items-center justify-content-center flex-column">
+    <mat-form-field class="example-full-width" hidden>
+        <mat-label>Id</mat-label>
+        <input type="text"  matInput  name="Id" hidden formControlName="Id" placeholder="Enter id">
+      </mat-form-field>
+    <mat-form-field class="example-full-width">
+      <mat-label>FirstName</mat-label>
+      <input matInput  name="firstName" placeholder="Enter FirstName" formControlName="FirstName">
+    </mat-form-field>
+  
+    
+    <mat-form-field class="example-full-width">
+      <mat-label>LastName</mat-label>
+      <input type="text"  matInput  name="lastName" formControlName="LastName" placeholder="Enter LastName">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+        <mat-label>Email</mat-label>
+        <input type="text"  matInput  name="Email" formControlName="Email" placeholder="Enter Email">
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Salary</mat-label>
+        <input type="number"  matInput  name="Salary" formControlName="Salary" placeholder="Enter Salary">
+      </mat-form-field>
+      
+
+    <mat-form-field>
+        <mat-label>DepartmentId</mat-label>
+        <mat-select formControlName="DepartmentId" name="DepartmentId">
+          <mat-option value="1">.NET</mat-option>
+          <mat-option value="2">HR</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <mat-form-field color="primary" >
+        <mat-label>Inherited calendar color</mat-label>
+        <input matInput [matDatepicker]="picker1" name="JoinDate"  formControlName="JoinDate">
+        <mat-hint>MM/DD/YYYY</mat-hint>
+        <mat-datepicker-toggle  matIconSuffix [for]="picker1"></mat-datepicker-toggle>
+        <mat-datepicker #picker1></mat-datepicker>
+      </mat-form-field>
+    
+
+    <button mat-flat-button color="primary" type="submit" class="mb-2 mt-2">Update Employee</button>
+  </form>

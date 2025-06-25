@@ -1,0 +1,33 @@
+
+
+<!-- 
+Navigation Bar Home Screen -->
+
+<div class="TabBackground  nav flex-column nav-pills min-vh-100 position-sticky top-0" id="AllAdminTabsList" role="tablist" aria-orientation="vertical">
+
+    <div class="mb-5 fs-3 fst-normal lh-sm text-start">
+        Employee Management System
+    </div>
+    <span class="text-white d-none d-md-inline ms-4 mt-5 pt-5  mb-2">Navigation</span>
+    <span class="text-white d-md-none ms-3 mt-5 pt-5  mb-2">Nav</span>
+    <a class="nav-link active text-start  ms-md-2 me-2 mb-2" routerLink="/Dashboard" type="button" role="tab">
+        <div class="d-flex align-items-center justify-content-start gap-2">
+        <mat-icon class="ms-2">dashboard</mat-icon>
+        <span class="d-md-inline d-none">Dashboard</span>
+    </div>
+    </a>
+    <a class="nav-link mb-2 text-start  ms-md-2 me-2"  routerLink="/ApproveLeave" type="button" role="tab">
+        <div class="d-flex align-items-center justify-content-start gap-2">
+        <i class="material-icons me-2">time_to_leave</i>
+        <span class="d-md-inline d-none">Pending Leave Request</span>
+    </div>
+    </a>
+    <a class="nav-link mb-2 text-start  ms-md-2 me-2" id="employeeTab" routerLink="/EmployeeList" type="button" role="tab">
+        <div class="d-flex align-items-center justify-content-start gap-2">
+        <mat-icon>supervisor_account</mat-icon>
+        <span class="d-md-inline d-none">EmployeeDetails</span>
+        </div>
+    </a>
+
+
+</div>
