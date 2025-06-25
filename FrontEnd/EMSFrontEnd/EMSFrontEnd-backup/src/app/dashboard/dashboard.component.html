@@ -1,0 +1,37 @@
+
+
+
+<div class="mt-4">
+    <div class="d-flex justify-content-start gap-4">
+        <mat-card class="timeLogList w-25 px-2" (click)="goToPage('ApproveLeave');">
+            <mat-card-content>
+                <h3 class="">
+                    Pending Leave Request to Approve
+                </h3>
+                <div class="footer d-flex mt-2 mb-0">
+                    <span>Pending Entry</span> 
+                    <span class="ms-2 totalDays">0 Enteries(s)</span>
+                </div>
+            </mat-card-content>
+        </mat-card>
+  
+        <mat-card class=" leaveLog px-2 w-25" (click)="goToPage('EmployeeList');">
+            <mat-card-content>
+                <div class="">
+                    Employees
+                </div>
+                <div class="footer d-flex mt-2 mb-0">
+                    <span>Total Employees:</span> 
+                    <span class="ms-2">20</span>
+                </div>
+            </mat-card-content>
+        </mat-card>
+        <mat-card class=" me-5 workLog px-2 w-25" (click)="goToPage('ApproveLeave');">
+            <mat-card-content>
+                <div class="">
+                    Calculate Salray
+                </div>
+            </mat-card-content>
+        </mat-card>
+    </div>    
+  </div>
